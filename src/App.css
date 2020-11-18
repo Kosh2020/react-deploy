@@ -251,7 +251,7 @@ img{
 
 
 
-@media screen and (max-width: 768px){ 
+@media screen and (max-width: 1024px){ 
   .main_field{
      min-height: auto;
     -webkit-box-orient: vertical;
